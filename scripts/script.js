@@ -73,3 +73,4 @@ function searching() {
         }
     }
 }
+searching()
