@@ -1,0 +1,20 @@
+.images{
+    width:170px;display: block;
+}
+#console_plain{
+    position: sticky !important;
+    margin-top: -45px;
+    margin-left:160px;
+    background-color: aliceblue;color:brown;
+    width: 1300px;
+    font-size: 0.8em;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#consoles{
+    display: flex;
+    position: relative;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.objects{
+    background-color: white;margin:20px;padding:10px;cursor: pointer;
+}
