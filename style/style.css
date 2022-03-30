@@ -75,3 +75,7 @@ a{
 .price{
     font-size: 1em;
 }
+.gcse-search{
+    font-size:1.2em;padding:10px;
+    cursor: pointer;color:red;
+}
