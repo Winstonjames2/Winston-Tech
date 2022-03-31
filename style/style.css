@@ -51,7 +51,7 @@ a{
     display: flex;align-items: right;text-align: right;
 }
 #inputs{
-    display:none;
+    /* display:none; */
     width: 500px;
     font-size:1.2em;
     border:2px solid rgb(12, 12, 94);
@@ -74,8 +74,4 @@ a{
 }
 .price{
     font-size: 1em;
-}
-.gcse-search{
-    font-size:1.2em;padding:10px;
-    cursor: pointer;color:red;
 }
